@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @PolarPsyche
-- 👀 I’m interested in Minecraft Origins Coding
-- 🌱 I’m currently learning JSON 
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me my youtube channel by the same name.
+- WSG, I’m @PolarPsyche!
+- Interested in coding my own minecraft mods and, eventually, MY OWN GAMES!
+- Working on learning Java and JavaScript MYSELF 
+- SUBSCRIBE TO @PolarPsyche ON YOUTUBE!
 
 <!---
 PolarPsyche/PolarPsyche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
